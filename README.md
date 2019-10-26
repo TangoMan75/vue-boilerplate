@@ -1,7 +1,7 @@
 TangoMan Vue Boilerplate
 ========================
 
-Awesome **TangoMan Vue Boilerplate** allows to train for your exams, you can train offline as well since **TangoMan Vue Boilerplate** is installable as a PWA on desktop and mobile.
+Awesome **TangoMan Vue Boilerplate** is a fast and handy way to start a vue project, you can use app offline as well since **TangoMan Vue Boilerplate** is installable as a PWA on desktop and mobile.
 
 **TangoMan Vue Boilerplate** uses:
 - [Vue.js 2.6.10](https://vuejs.org/v2/guide)
